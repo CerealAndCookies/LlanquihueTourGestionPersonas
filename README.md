@@ -2,9 +2,9 @@
 
 ## Autor del proyecto
 - **Nombre completo:** Frederico Toranzo
-- **Sección:** 
-- **Carrera:** [Tu carrera]
-- **Sede:** [Tu sede]
+- **Sección:** N/a
+- **Carrera:** Analista Programador Computacional
+- **Sede:** Campus Online
 
 ## Descripción
 Sistema básico en Java para representar a las personas vinculadas a la agencia de turismo Llanquihue Tour. Aplica encapsulamiento, composición, herencia y organización en paquetes para evitar información duplicada y diferenciar roles.
@@ -13,13 +13,13 @@ Sistema básico en Java para representar a las personas vinculadas a la agencia 
 ```
 src/
 ├── app/
-│   └── Main.java         # Ejecuta el sistema y muestra los objetos
+│   └── Main.java        # Ejecuta el sistema y muestra los objetos
 └── model/
-    ├── Persona.java      # Clase base
-    ├── Direccion.java    # Composición: una Persona tiene una Direccion
-    └── Empleado.java     # Hereda de Persona
+    ├── Persona.java     # Clase base; contiene una Direccion
+    ├── Direccion.java   # Clase usada en la composición con Persona
+    ├── Empleado.java    # Hereda de Persona
+    └── Cliente.java     # Hereda de Persona
 ```
-
 ## Cómo compilar y ejecutar
 1. Clona el repositorio:
    ```
