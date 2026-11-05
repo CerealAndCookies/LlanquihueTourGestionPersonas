@@ -23,11 +23,11 @@ src/
 ## Cómo compilar y ejecutar
 1. Clona el repositorio:
    ```
-   git clone https://github.com/midlife-cl/LlanquihueTourGestionPersonas.git
+   git clone https://github.com/CerealAndCookies/LlanquihueTourGestionPersonas.git
    ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Compílalo con **Build > Build Project**.
 4. Abre `src/app/Main.java` y ejecútalo con **Run**.
 5. Revisa los resultados en la consola.
 
-**Repositorio:** https://github.com/midlife-cl/LlanquihueTourGestionPersonas
+**Repositorio:** https://github.com/CerealAndCookies/LlanquihueTourGestionPersonas
