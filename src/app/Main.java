@@ -14,7 +14,7 @@ public class Main {
                 "Av. Francisco Bilbao 1383",
                 "Iquique",
                 "Tarapacá",
-                "andrea.arenas92@gmail.com",
+                "andrea.arenas92 gmail.com",
                 56977801566L);
         System.out.println(persona1);
 
@@ -31,7 +31,7 @@ public class Main {
                 "Av. Vicente Pérez Rosales 450",
                 "Llanquihue",
                 "Región de Los Lagos",
-                "carolina.munoz@llanquihuetour.cl",
+                "carolina.munoz llanquihuetour.cl",
                 56987654321L,
                 "Guía turística",
                 "31-12-2027",
@@ -48,7 +48,7 @@ public class Main {
                 "Los Aromos 1280",
                 "Puerto Montt",
                 "Región de Los Lagos",
-                "martin.rojas@correo.cl",
+                "martin.rojas correo.cl",
                 56976543210L,
                 "Chilena",
                 "Paseo lacustre"
@@ -63,7 +63,7 @@ public class Main {
                 "Ruta 5 Sur Km 1015",
                 "Puerto Varas",
                 "Región de Los Lagos",
-                "rodrigo.paredes@transporteslagosur.cl",
+                "rodrigo.paredes transporteslagosur.cl",
                 56965432198L,
                 "Proveedor de transporte",
                 "30-06-2027",
