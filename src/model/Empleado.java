@@ -4,7 +4,8 @@ public class Empleado extends Persona {
     private String cargo;
     private String fechaTermino;
     private double sueldo;
-    //TODO agregar empresa
+    private String empresa;
+
     public String getFechaTermino() {
         return fechaTermino;
     }
@@ -22,11 +23,12 @@ public class Empleado extends Persona {
     }
 
     public Empleado(String nombreCompleto, String rut, int edad, String calle, String comuna, String region,
-                    String correo, long numeroTelefono, String cargo, String fechaTermino, double sueldo) {
+                    String correo, long numeroTelefono, String cargo, String fechaTermino, double sueldo, String empresa) {
         super(nombreCompleto, rut, edad, calle, comuna, region, correo, numeroTelefono);
         this.cargo = cargo;
         this.fechaTermino = fechaTermino;
         this.sueldo = sueldo;
+        this.empresa = empresa;
     }
 
     @Override

@@ -6,7 +6,7 @@ import model.Empleado;
 import model.Persona;
 
 public class Main {
-    static void main(String[] args) {
+    static void main() {
         Persona persona1 = new Persona(
                 "Andrea Arenas",
                 "20.212.748-9",
@@ -35,7 +35,8 @@ public class Main {
                 56987654321L,
                 "Guía turística",
                 "31-12-2027",
-                850000
+                850000,
+                "Llanquihue Tour"
         );
 
         System.out.println(empleado1);
@@ -54,5 +55,22 @@ public class Main {
         );
 
         System.out.println(cliente1);
+
+        Empleado proveedor1 = new Empleado(
+                "Rodrigo Paredes Oyarzún",
+                "15432876-1",
+                45,
+                "Ruta 5 Sur Km 1015",
+                "Puerto Varas",
+                "Región de Los Lagos",
+                "rodrigo.paredes@transporteslagosur.cl",
+                56965432198L,
+                "Proveedor de transporte",
+                "30-06-2027",
+                1200000,
+                "Transportes Lago Sur"
+        );
+
+        System.out.println(proveedor1);
     }
 }
