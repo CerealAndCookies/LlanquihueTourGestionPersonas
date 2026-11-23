@@ -1,0 +1,18 @@
+Carolina Muñoz Vera;16789432-5;34;Av. Vicente Pérez Rosales 450;Llanquihue;Región de Los Lagos;carolina.munoz@llanquihuetour.cl;56987654321;Guía turística;31-12-2027;950000;Llanquihue Tour
+Rodrigo Paredes Oyarzún;15432876-1;45;Ruta 5 Sur Km 1015;Puerto Varas;Región de Los Lagos;rodrigo.paredes@transporteslagosur.cl;56965432198;Proveedor de transporte;30-06-2027;1200000;Transportes Lago Sur
+Matías Alarcón Soto;18294615-K;31;Av. Bernardo Philippi 320;Frutillar;Región de Los Lagos;matias.alarcon@llanquihuetour.cl;56984123905;Guía de trekking;30-11-2027;980000;Llanquihue Tour
+Valentina Ojeda Vargas;19451823-4;28;Calle San Francisco 615;Puerto Varas;Región de Los Lagos;valentina.ojeda@llanquihuetour.cl;56975431208;Coordinadora de reservas;30-09-2027;1050000;Llanquihue Tour
+Sebastián Mansilla Pérez;16128490-4;38;Av. Vicente Pérez Rosales 810;Llanquihue;Región de Los Lagos;sebastian.mansilla@llanquihuetour.cl;56992341876;Encargado de operaciones;31-12-2027;1450000;Llanquihue Tour
+Francisca Cárdenas Díaz;20134789-0;25;Calle Del Salvador 442;Puerto Varas;Región de Los Lagos;francisca.cardenas@llanquihuetour.cl;56963218940;Recepcionista bilingüe;31-03-2027;780000;Llanquihue Tour
+Cristóbal Gallardo Ruiz;17392045-8;35;Av. Costanera 1150;Puerto Montt;Región de Los Lagos;cristobal.gallardo@llanquihuetour.cl;56988451239;Ejecutivo de ventas;30-11-2027;1120000;Llanquihue Tour
+Camila Bahamonde Silva;18765120-4;30;Calle Carlos Richter 285;Frutillar;Región de Los Lagos;camila.bahamonde@llanquihuetour.cl;56971928345;Guía turística;31-12-2027;950000;Llanquihue Tour
+Ignacio Velásquez Morales;15678234-3;42;Av. Gramado 540;Puerto Varas;Región de Los Lagos;ignacio.velasquez@llanquihuetour.cl;56995120384;Administrador de finanzas;31-12-2027;1650000;Llanquihue Tour
+Javiera Hernández Lagos;19823411-7;27;Calle Baquedano 190;Llanquihue;Región de Los Lagos;javiera.hernandez@llanquihuetour.cl;56967482910;Encargada de marketing digital;31-08-2027;1080000;Llanquihue Tour
+Felipe Barrientos Núñez;14892310-8;46;Ruta 225 Km 18;Puerto Varas;Región de Los Lagos;felipe.barrientos@navegacionpetrohue.cl;56981234901;Proveedor de navegación lacustre;31-05-2027;1350000;Navegación Petrohué
+Daniela Subiabre Torres;17845192-8;33;Av. Juan Soler Manfredini 1420;Puerto Montt;Región de Los Lagos;daniela.subiabre@saboresdelsur.cl;56974129836;Proveedora de catering;30-04-2027;1100000;Banquetería Sabores del Sur
+Gonzalo Andrade Fuentes;16543908-2;37;Camino a Ensenada Km 12;Puerto Varas;Región de Los Lagos;gonzalo.andrade@kayakllanquihue.cl;56990238471;Proveedor de equipamiento outdoor;31-10-2027;1180000;Kayak & Aventura Llanquihue
+Marcela Santana Reyes;15981247-2;40;Calle Pedro Montt 310;Puerto Octay;Región de Los Lagos;marcela.santana@cabanasvolcan.cl;56983491025;Proveedora de alojamiento;31-12-2026;1250000;Cabañas Vista Volcán
+Patricio Ampuero Saldivia;14231895-4;49;Ruta 5 Sur Km 1022;Puerto Montt;Región de Los Lagos;patricio.ampuero@transporteslagosur.cl;56968234190;Proveedor de transporte;30-06-2027;1150000;Transportes Lago Sur
+Constanza Águila Mendoza;19102485-0;29;Calle Antonio Varas 760;Puerto Montt;Región de Los Lagos;constanza.aguila@enfocapatagonia.cl;56979102843;Proveedora de fotografía turística;30-09-2027;920000;Enfoca Patagonia Producciones
+Esteban Ulloa Contreras;16890432-0;36;Av. Diego Portales 915;Osorno;Región de Los Lagos;esteban.ulloa@seguridadpatagonia.cl;56994812037;Proveedor de seguros y asistencia;28-02-2027;1300000;Seguridad Patagonia Ltda.
+Lorena Paredes Cárdenas;18045219-2;32;Calle Walker Martínez 512;Puerto Varas;Región de Los Lagos;lorena.paredes@solucionesticsur.cl;56961928374;Proveedora de soporte TI;31-07-2027;1400000;Soluciones TIC Sur

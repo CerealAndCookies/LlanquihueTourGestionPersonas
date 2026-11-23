@@ -1,0 +1,17 @@
+Nombre;RUT;Edad;Calle;Comuna;Región;Correo;Número Teléfono
+Andrea Arenas;20.212.748-9;34;Av. Francisco Bilbao 1383;Iquique;Tarapacá;andrea.arenas92@gmail.com;56977801566
+Sebastián Morales;18.452.319-1;32;Av. Providencia 1450;Providencia;Metropolitana;sebastian.morales@gmail.com;56982341905
+Camila Valenzuela;19.874.512-K;27;Av. Libertad 612;Viña del Mar;Valparaíso;camila.valenzuela99@outlook.com;56974512839
+Matías Contreras;16.328.941-5;39;Barros Arana 945;Concepción;Biobío;m.contreras87@gmail.com;56991238476
+Valentina Rojas;20.541.823-7;24;Av. Balmaceda 2310;La Serena;Coquimbo;vale.rojas02@gmail.com;56963489210
+Diego Fernández;14.982.635-1;44;Av. Alemania 0485;Temuco;La Araucanía;diego.fernandez@correo.cl;56988741263
+Francisca Soto;17.653.209-2;35;Av. Argentina 1780;Antofagasta;Antofagasta;fran.soto91@gmail.com;56971294508
+Cristóbal Navarro;15.219.487-0;42;Calle 1 Sur 1120;Talca;Maule;c.navarro84@hotmail.com;56995412037
+Javiera Espinoza;21.104.782-8;22;Av. Costanera 315;Puerto Varas;Los Lagos;javiera.espinoza@gmail.com;56967823415
+Ignacio Castillo;13.847.290-6;48;Av. Bernardo O'Higgins 740;Rancagua;O'Higgins;ignacio.castillo@gmail.com;56984102938
+Constanza Herrera;19.125.638-7;29;Av. Pedro Aguirre Cerda 520;Valdivia;Los Ríos;coni.herrera97@gmail.com;56979348120
+Felipe Araya;16.904.321-3;37;Calle Chacabuco 418;Copiapó;Atacama;felipe.araya89@outlook.com;56990184726
+Catalina Poblete;20.389.146-6;25;Av. España 1290;Punta Arenas;Magallanes;cata.poblete01@gmail.com;56962951048
+Tomás Sepúlveda;17.238.495-1;36;Av. Las Condes 8420;Las Condes;Metropolitana;tomas.sepulveda@gmail.com;56986532109
+Isidora Fuentes;18.940.217-1;30;Calle 21 de Mayo 655;Arica;Arica y Parinacota;isi.fuentes96@gmail.com;56973819462
+Benjamín Tapia;15.782.043-5;41;Calle El Roble 832;Chillán;Ñuble;benja.tapia85@correo.cl;56994201875

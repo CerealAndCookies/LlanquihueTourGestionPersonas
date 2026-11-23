@@ -1,0 +1,4 @@
+Calle;Comuna;Region
+Av. Vicente Pérez Rosales 450;Llanquihue;Región de Los Lagos
+Ruta 5 Sur Km 1015;Puerto Varas;Región de Los Lagos
+Portoalegre 498;Quilicura;Región Metropolitana
